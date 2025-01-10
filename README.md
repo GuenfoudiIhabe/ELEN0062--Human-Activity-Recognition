@@ -13,6 +13,6 @@ The repository contains the final version for each of the tested method and a da
 
 ## More about ELEN0062
 
-You can also find the reports for our two projects here :
+You can also find the reports for our two others projects here :
 - [Project 1](https://www.overleaf.com/read/jtwzvdcfxrqx#4219fa)
 - [Project 2](https://fr.overleaf.com/read/bstrdprwmmqp#966247)
